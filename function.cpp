@@ -7,3 +7,7 @@ void sort(int* arr, int length)
 {
  // code: sort cua nhanh master
 }
+int SORT(int *arr, int length)
+{
+ // SORT cua nhanh feature
+}
